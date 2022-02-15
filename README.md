@@ -5,7 +5,7 @@ Development begin in late 2020, with the first fully functioning machine finsish
 
 
 
-Check the releases for the latest files
+Check the releases for the latest files (Stable files, use main repo @ your own risk)
 
 
 
