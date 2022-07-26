@@ -1,12 +1,24 @@
 # GCCOREXY
-A high quality Corexy 3d printer, inspired by the modern Vorons, VZbot, Hevort, Railcores, and countless others. Intended to be easy to build, and easy to work on while providing great print quality.
+A high quality Corexy 3d printer, inspired by the modern Vorons, VZbot, Hevort, Railcores, and countless others, along with other great projects like the EVA toolhead. Intended to be easy to build, and easy to work on while providing speed and reliability. Cost to build ranges from ~850$ to ~1200$ for a 245x255 depending on spec, and is only around ~215$ extra to move to 300 or a 250 with AC bed. Maximum theoretical chamber temps and print speeds will decrease at a larger size. 
 
-Development begin in late 2020, with the first fully functioning machine finsished in late april of 2021. 
-
+Development begin in late 2020, with the first fully functioning machine finsished in late april of 2021. This machine is still under active development.
 
 
 Check the releases for the latest files (Stable files, use main repo @ your own risk)
 
-
+If you are interest in building and would like more information, I hang around Open Source 3dp discords, and check my github messages often. 
 
 If your interested in producing a kit or selling parts (that would be surprising!), please reach out, as its completely allowed under the license, but maintaining the quality of the project is my highest priority and hopefully I can provide some insight into my designs. 
+
+Plans for the Future:
+- aluminum construction variant (more plates instead of larger bulky ABS parts)
+- Better Chamber insulation for technical materials (currently my unit peaks at ~50C)
+- Smaller more integrated toolhead
+- detachable probe
+
+Plans for the far away future:
+- toolchanging
+- Miniature version
+- CAN toolhead
+- triple Z variant w/ kinematic bed
+
