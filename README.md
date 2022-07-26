@@ -3,6 +3,11 @@ A high quality Corexy 3d printer, inspired by the modern Vorons, VZbot, Hevort, 
 
 Development begin in late 2020, with the first fully functioning machine finsished in late april of 2021. This machine is still under active development.
 
+Major Changes since 2021:
+- Move to bed lifter (previously a flying gantry) 
+- Changes to assist insulation
+- Support for corner cube or blind joint assembly (no longer printed brackets)
+- Smaller footprint, more build area
 
 Check the releases for the latest files (Stable files, use main repo @ your own risk)
 
@@ -21,4 +26,8 @@ Plans for the far away future:
 - Miniature version
 - CAN toolhead
 - triple Z variant w/ kinematic bed
+
+
+<img width="849" alt="Screen Shot 2022-07-25 at 7 53 04 PM" src="https://user-images.githubusercontent.com/68663342/180912920-c8686665-697d-4e33-b911-26572222fd64.png">
+Pictured above: The latest revision of the toolhead
 
