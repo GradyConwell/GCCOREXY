@@ -29,5 +29,5 @@ Plans for the far away future:
 
 
 <img width="849" alt="Screen Shot 2022-07-25 at 7 53 04 PM" src="https://user-images.githubusercontent.com/68663342/180912920-c8686665-697d-4e33-b911-26572222fd64.png">
-Pictured above: The latest revision of the toolhead
+Pictured above: The all 3d printable revision of the toolhead
 
