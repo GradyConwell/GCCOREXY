@@ -11,13 +11,9 @@ Major Changes since 2021:
 
 Check the releases for the latest files (Stable files, use main repo @ your own risk)
 
-If you are interest in building and would like more information, I hang around Open Source 3dp discords, and check my github messages often. 
-
-If your interested in producing a kit or selling parts (that would be surprising!), please reach out, as its completely allowed under the license, but maintaining the quality of the project is my highest priority and hopefully I can provide some insight into my designs. 
-
 Plans for the Future:
 - aluminum construction variant (more plates instead of larger bulky ABS parts)
-- Better Chamber insulation for technical materials (currently my unit peaks at ~50C)
+- Better Chamber insulation for technical materials (currently my unit peaks at ~60C)
 - Smaller more integrated toolhead
 - detachable probe
 
